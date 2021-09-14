@@ -28,4 +28,6 @@
   
   ##
   
+  ![Snake animation](https://github.com/lucasdevigili/lucasdevigili/blob/output/github-contribution-grid-snake.svg)
+  
 
