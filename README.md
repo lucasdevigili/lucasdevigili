@@ -1,15 +1,15 @@
-## Olá! Eu sou o Lucas Gabriel Devigili 👨‍💻
+## Olá! Eu sou o Lucas Gabriel Devigili 👨‍💻  
 
-  <div>
+  <div  align="center">
     <a href = "https://twitter.com/LucasDevigili"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"                                 target="_blank"></a>
     <a href="https://instagram.com/lucasdevigili" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
     <a href = "lucasdevigili@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"                     target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-gabriel-devigili-20836b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/lucas-gabriel-devigili-20836b216/" target="_blank">><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  ##
 
- <div>
+ <div align="center">
   <a href="https://github.com/lucasdevigili">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasdevigili&show_icons=true&border_&theme=dracula&include_all_commits=true&count_private=true&border_radius=3px"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevigili&layout=compact&langs_count=7&border_radius=3px&theme=dracula"/>
