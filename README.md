@@ -10,10 +10,10 @@
  ##
 
  <div align="center">
-  <a href="https://github.com/lucasdevigili">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api username=lucasdevigili&show_icons=true&border_&theme=dracula&include_all_commits=true&count_private=true&border_radius=3px"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevigili&layout=compact&langs_count=7&border_radius=3px&theme=dracula"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=lucasdevigili&theme=dracula&hide_border=false"/>
+  <a href="https://github.com/Lucasdevigili">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasdevigili&show_icons=true&border_&theme=dracula&include_all_commits=true&count_private=true&border_radius=3px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdevigili&layout=compact&langs_count=7&border_radius=3px&theme=dracula"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Lucasdevigili&theme=dracula&hide_border=false"/>
 </div>
  
  ## Tecnologias do meu dia
