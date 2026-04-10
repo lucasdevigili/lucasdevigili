@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Gabriel Devigili 👨‍💻  
 
-💻 Desenvolvedor Full Stack  
-🚀 Focado em React, Node.js e PHP  
-📍 Brasil  
+Desenvolvedor Full Stack  
+Focado em React, Node.js e PHP  
+Brasil  
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Tecnologias do meu dia
+## Tecnologias do meu dia
 
 <div style="display: inline-block;">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Ferramentas de trabalho
+## Ferramentas de trabalho
 
 <div style="display: inline-block;">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
@@ -56,7 +56,7 @@
 
 ---
 
-## 📚 Tecnologias que quero aprender
+## Tecnologias que quero aprender
 
 <div style="display: inline-block;">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
